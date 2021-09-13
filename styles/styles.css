@@ -574,7 +574,7 @@ ul {
 
 .contacts .link:hover,
 .contacts .link:focus {
-  color: var(--white);
+  color: var(--accent-color);
 }
 .contacts .item + .item {
   margin-top: 9px;
